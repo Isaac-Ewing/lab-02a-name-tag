@@ -29,15 +29,15 @@
     font-family: sans-serif;
 }
 
-#name {
+#name-display {
     position: absolute;
     z-index: 3;
     background-color: white;
-    padding: 40px 170px;
+    padding: 40px 103px;
     font-family: cursive;
     font-style: italic;
     font-weight: bold;
-    margin-top: -140px;
+    margin-top: 115px;
     font-size: 20px;
     margin-left: 5px;
 }
